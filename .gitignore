@@ -1,0 +1,39 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Application settings
+settings.json
+
+# Application logs
+*.log
+logs/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# FFmpeg binaries and libraries
+ffmpeg/ffmpeg.exe
+ffmpeg/ffprobe.exe
+ffmpeg/*.dll
